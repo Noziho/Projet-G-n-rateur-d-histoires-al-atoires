@@ -1,1 +1,1 @@
-# Projet-G-n-rateur-d-histoires-al-atoires
+# Projet-Generateur-d-histoires-aleatoires
